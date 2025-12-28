@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_concepts/Función - definida por tramos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función - definida por tramos"
+              "title": "README"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_concepts/Función - definida por tramos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Función - definida por tramos"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_concepts/Función - definida por tramos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Función - definida por tramos"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_concepts/Función - definida por tramos.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Función - definida por tramos"
+              "title": "Outline of README"
             }
           }
         ]
@@ -226,12 +226,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e376a690f4154bc0",
+  "active": "db2e27386bfc7fce",
   "lastOpenFiles": [
+    "01_concepts/Función - definida por tramos.md",
     "01_concepts/Función - asimétrica.md",
     "01_concepts/Función - simétrica.md",
     "01_concepts/Función.md",
-    "01_concepts/Función - definida por tramos.md",
     "02_examples",
     "00_temporary",
     "README.md",
