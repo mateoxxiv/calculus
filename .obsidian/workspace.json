@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c5d63be2b5e983",
+        "id": "4dea4de0d7df9f23",
         "type": "tabs",
         "children": [
           {
-            "id": "510339c1908bcf95",
+            "id": "92232b62f23bd1b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_concepts/Función.md",
+                "file": "01_concepts/Algebra - factorización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Función"
-            }
-          },
-          {
-            "id": "874c839a9beed51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_concepts/Función.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Función"
-            }
-          },
-          {
-            "id": "71922785169b9a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_concepts/Función - simétrica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Función - simétrica"
-            }
-          },
-          {
-            "id": "db2e27386bfc7fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Algebra - factorización"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01_concepts/Funciones - proceso de modelado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Funciones - proceso de modelado"
             }
           },
           {
@@ -156,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01_concepts/Funciones - proceso de modelado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Funciones - proceso de modelado"
             }
           },
           {
@@ -199,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01_concepts/Funciones - proceso de modelado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Funciones - proceso de modelado"
             }
           }
         ]
@@ -226,16 +183,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "db2e27386bfc7fce",
+  "active": "92232b62f23bd1b4",
   "lastOpenFiles": [
-    "01_concepts/Función - definida por tramos.md",
-    "01_concepts/Función - asimétrica.md",
-    "01_concepts/Función - simétrica.md",
+    "01_concepts/Algebra - raiz.md",
+    "01_concepts/Algebra - factorización.md",
+    "01_concepts/Limites.md",
+    "01_concepts/Algebra - suma.md",
+    "01_concepts/Algebra - potencia.md",
+    "01_concepts/Algebra - multiplicación.md",
+    "01_concepts/Algebra - logaritmo.md",
+    "01_concepts/Algebra - división.md",
+    "01_concepts/Función - creciente.md",
+    "01_concepts/Función - combinación.md",
     "01_concepts/Función.md",
+    "03_images/delta_epsilon_limit_definition.png",
+    "01_concepts/Trigonometría - adición y sustracción de ángulos.md",
+    "01_concepts/Trigonometría - ángulos dobles y medios.md",
+    "01_concepts/Trigonometría - funciones.md",
+    "01_concepts/Trigonometría - gráficos.md",
+    "01_concepts/Trigonometría - identidades.md",
+    "01_concepts/Trigonometría - ley de senos y cosenos.md",
+    "01_concepts/Trigonometría - medición de ángulos.md",
+    "01_concepts/Funciones - transformaciones.md",
+    "01_concepts/Función - simétrica.md",
+    "01_concepts/Función - relacional.md",
+    "01_concepts/Función - asimétrica.md",
+    "01_concepts/Función - proceso de modelado.md",
+    "01_concepts/Función - potencia.md",
+    "01_concepts/Función - polinómica.md",
+    "01_concepts/Función - logaritmica.md",
+    "03_images/doible_angle_formulas.png",
+    "03_images/unit_circle.png",
+    "03_images/trigonomtric_identities.png",
+    "03_images/trigonomtric_functions_graphs.png",
+    "03_images/rigth_angle_trigonometry.png",
+    "03_images/addition_substraction_trigometric_angles.png",
+    "03_images/sin_cos_laws.png",
+    "Pasted image 20251228124707.png",
+    "Pasted image 20251228103054.png",
+    "03_images",
     "02_examples",
     "00_temporary",
-    "README.md",
-    "01_concepts",
-    "Welcome.md"
+    "01_concepts"
   ]
 }

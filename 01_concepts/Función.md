@@ -17,4 +17,4 @@
 
 # Test de la función
 
-Podemos determinar si una ecuación es una función si al pasarle una línea recta vertical pasa a lo sumo por un solo punto de la función
+Podemos determinar si una ecuación es una función si al pasarle una línea recta vertical pasa a lo sumo por un solo punto de la función[]()
